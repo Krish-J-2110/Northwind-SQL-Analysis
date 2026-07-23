@@ -68,20 +68,20 @@ This helped summarize the data and identify important business trends.
 
 ### Top 10 Selling Products
 
-![Top Selling Products](Screenshots/top_products.png)
+![Top Selling Products](screenshots/top_products.png)
 
 ### Top 10 Customers by Revenue
 
-![Top Customers](Screenshots/top_customers.png)
+![Top Customers](screenshots/top_customers.png)
 
 ### Monthly Sales Trends
 
-![Monthly Sales](Screenshots/monthly_sales.png)
+![Monthly Sales](screenshots/monthly_sales.png)
 
 ### Best Performing Categories
 
-![Categories](Screenshots/categories.png)
+![Categories](screenshots/categories.png)
 
 ### Customer Purchase Frequency
 
-![Purchase Frequency](Screenshots/purchase_frequency.png)
+![Purchase Frequency](screenshots/purchase_frequency.png)
